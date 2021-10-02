@@ -1,0 +1,7 @@
+name: ObamaNPC
+version: '${project.version}'
+main: me.bigvirusboi.obamanpc.ObamaNPC
+api-version: 1.17
+commands:
+  npc:
+    description: Create a simple NPC
